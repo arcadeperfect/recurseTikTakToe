@@ -1,0 +1,6 @@
+/Users/alexanderharding/RiderProjects/TikTakConsole/TikTakConsole/bin/Debug/TikTakConsole.exe
+/Users/alexanderharding/RiderProjects/TikTakConsole/TikTakConsole/bin/Debug/TikTakConsole.pdb
+/Users/alexanderharding/RiderProjects/TikTakConsole/TikTakConsole/obj/Debug/TikTakConsole.csprojAssemblyReference.cache
+/Users/alexanderharding/RiderProjects/TikTakConsole/TikTakConsole/obj/Debug/TikTakConsole.csproj.CoreCompileInputs.cache
+/Users/alexanderharding/RiderProjects/TikTakConsole/TikTakConsole/obj/Debug/TikTakConsole.exe
+/Users/alexanderharding/RiderProjects/TikTakConsole/TikTakConsole/obj/Debug/TikTakConsole.pdb
